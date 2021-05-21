@@ -1,3 +1,3 @@
 # ProgPrac
 
-Practising the basic concepts of programming in different languages.
+Practising the basic concepts of programming in Python, R, SQL and C++.
